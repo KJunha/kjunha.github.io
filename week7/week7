@@ -1,4 +1,4 @@
-<!doctype  html>  <!--  index.html -->             
+<!doctype  html>  <!--  week7.html -->             
 <html><head> 
   <meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
   <style>
@@ -20,6 +20,7 @@
       <li><a href="https://kjunha.github.io/week7/202304131f.html"  target="_blank">formSearch1.html</a></li>
       <li><a href="https://kjunha.github.io/week7/202304131g.html"  target="_blank">formSelect1.html</a></li>
     </ol>
+    <li><a href="https://kjunha.github.io/index.html"  target="_blank">뒤로가기</a></li>
   </ul>
 </section>
 </body>
